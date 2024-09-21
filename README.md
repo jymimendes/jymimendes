@@ -27,7 +27,7 @@ Apresentação do [Meu Currículo](https://gzjdht.csb.app/)
 </a>
 
 ---
-
+Entre em contato!
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jaime.francisco@academico.ifpb.edu.br)
 
 ---
